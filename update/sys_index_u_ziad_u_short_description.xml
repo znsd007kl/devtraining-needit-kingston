@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>u_short_description</col_name_string>
+        <index_col_name element="u_short_description" name="u_ziad">7c1364c0db8923000cd9f11fbf961925</index_col_name>
+        <logical_table_name>u_ziad</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-10-04 15:17:52</sys_created_on>
+        <sys_id>761238c8db8923000cd9f11fbf96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ziad</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_u_ziad_u_short_description</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-04 15:17:52</sys_updated_on>
+        <table display_value="Ziad" name="u_ziad">341324c0db8923000cd9f11fbf9619ad</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>
