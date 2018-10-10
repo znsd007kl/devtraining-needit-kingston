@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Needlt" max_length="40" name="x_58872_needit_needlt" type="collection">
+    <element extends="task" label="Needlt" max_length="40" name="x_58872_needit_needlt" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="hr" label="Req Type" mandatory="true" max_length="40" name="u_choice_5" type="string">
             <choice>
                 <element label="HR" sequence="0" value="hr"/>
